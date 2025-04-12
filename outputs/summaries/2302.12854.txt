@@ -1,4 +1,17 @@
 Existing Summary:
-The research on Micro-Papers explores the concept of using short, informal papers as a way to share ideas and spark conversations without the constraints of formal peer review. It highlights the benefits of this approach, such as quick dissemination of ideas and potential for invigorating scholars. However, it also acknowledges the limitations of micro-papers in terms of citability and audience reach.
-
-No update is needed for the summary based on the new context provided.
+- Objective:
+  - To introduce the concept of the Micro-Paper as a cheaper and citable way to present late-breaking research ideas and conversations.
+  
+- Methods:
+  - The Micro-Paper is a digital document between 1 and 4 pages in length that engages a single idea clearly.
+  - It is self-published and archived, similar to a pre-print of a short paper, and is published through an open archive.
+  
+- Results:
+  - The Micro-Paper fills a gap between fast, cheap ideas and rigorous, archival work.
+  - It allows for the dissemination of raw, unrefined research ideas in a cheap and accessible manner.
+  
+- Limitations:
+  - The Micro-Paper format may not be suitable for all types of research or academic communities.
+  
+- Future Work:
+  - Further exploration of the effectiveness and reception of the Micro-Paper format in different academic fields and communities.

@@ -4,23 +4,19 @@
 ## Setup Instructions (Dockerized application)
 
 
-1. Clone the Repository and navigate to it
+1. Pull Docker Image
 ```bash
-
+docker pull iverant/vahanai-research-paper-processor:latest
 ```
 
-2. Before running the application, you need to set your api key
+2. Run docker image
 ```bash
-cp .env.template .env
+docker run -it -p 8501:8501 iverant/vahanai-research-paper-processor:latest
 ```
 
-3. Build and run with Docker Compose
+3. Open your web browser and navigate to:
 ```bash
-docker compose up
-```
-4. Open your web browser and navigate to:
-```bash
-http://localhost:8501
+http://0.0.0.0:8501 or http://localhost:8501
 ```
 
 
