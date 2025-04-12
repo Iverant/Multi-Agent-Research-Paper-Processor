@@ -8,3 +8,4 @@ langchain-core>=0.0.14
 openai>=0.28.0
 gtts>=2.3.2
 typing-extensions>=4.5.0
+pypdf
