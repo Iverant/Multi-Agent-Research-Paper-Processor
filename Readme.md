@@ -30,7 +30,7 @@ Photos:
 
 2. Image of search result
 
-   ![Image](https://github.com/Iverant/Multi-Agent-Research-Paper-Processor/issues/2#issue-2990576963)
+![Image](https://github.com/user-attachments/assets/7504dd08-cacd-4361-8792-441803d8200a)
 
 ## System Architecture
 
