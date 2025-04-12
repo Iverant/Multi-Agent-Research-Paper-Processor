@@ -22,15 +22,9 @@ http://0.0.0.0:8501 or http://localhost:8501
 
 You can access the website via the link given above.
 
-Photos:
-
-1. User input Topics for classification
-![Image](https://github.com/user-attachments/assets/ffd88909-a367-4867-9eab-5990c931bfd3)
-
-
-2. Image of search result
-
-![Image](https://github.com/user-attachments/assets/7504dd08-cacd-4361-8792-441803d8200a)
+```bash
+https://multi-agent-research-paper-processor.onrender.com
+```
 
 ## System Architecture
 
