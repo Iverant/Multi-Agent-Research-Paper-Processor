@@ -27,6 +27,11 @@ Photos:
 1. User input Topics for classification
 ![Image](https://github.com/user-attachments/assets/ffd88909-a367-4867-9eab-5990c931bfd3)
 
+
+2. Image of search result
+
+   ![Image](https://github.com/Iverant/Multi-Agent-Research-Paper-Processor/issues/2#issue-2990576963)
+
 ## System Architecture
 
 The system is organized into modular components, each responsible for a specific task. The directory structure is as follows:
