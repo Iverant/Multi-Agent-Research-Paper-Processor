@@ -18,7 +18,14 @@ docker run -it -p 8501:8501 iverant/vahanai-research-paper-processor:latest
 ```bash
 http://0.0.0.0:8501 or http://localhost:8501
 ```
+## Demo
 
+You can access the website via the link given above.
+
+Photos:
+
+1. User input Topics for classification
+![Image](https://github.com/user-attachments/assets/ffd88909-a367-4867-9eab-5990c931bfd3)
 
 ## System Architecture
 
