@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  research-paper-processor:
+    build: .
+    container_name: research-paper-processor
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./outputs:/app/outputs
+    environment:
+      - API_KEY_openai=${API_KEY_openai}
+      - API_KEY_langsmith=${API_KEY_langsmith}

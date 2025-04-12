@@ -1,0 +1,18 @@
+Existing Summary:
+The Brain MR Image Synthesis Benchmark (BraSyn) in conjunction with MICCAI 2023 aims to evaluate image synthesis methods for generating missing MRI modalities to enhance brain tumor segmentation pipelines. The dataset includes multi-parametric MRI scans with ground truth annotations for tumor subregions, allowing for the assessment of image synthesis techniques. Limitations include variations in image quality and the absence of segmentation masks for test data. Future work involves refining image synthesis algorithms for improved brain tumor segmentation in incomplete datasets and potential integration in clinical settings.
+
+Final Summary:
+Objective:
+The Brain MR Image Synthesis Benchmark (BraSyn) in conjunction with MICCAI 2023 aims to evaluate image synthesis methods for generating missing MRI modalities to enhance brain tumor segmentation pipelines, utilizing five ranking metrics for segmentation accuracy.
+
+Methods:
+Participants will be ranked based on an equally weighted rank-sum of five metrics, including Dice scores for tumor tissues and SSIMs for image quality. Training and validation datasets will be provided, with top-performing teams invited to present their methods at MICCAI 2023.
+
+Results:
+The final rankings and winners will be announced at MICCAI 2023, with top-ranked teams receiving monetary prizes. Publicly available brain scans can be used during training, but results must be reported using only provided training data for fair comparison.
+
+Limitations:
+Variations in image quality and the absence of segmentation masks for test data may impact the evaluation of image synthesis techniques and segmentation accuracy.
+
+Future Work:
+Future work involves refining image synthesis algorithms for improved brain tumor segmentation in incomplete datasets and potential integration in clinical settings, building on the insights gained from the BraSyn 2023 Challenge.

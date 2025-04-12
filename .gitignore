@@ -1,0 +1,15 @@
+# API keys and environment variables
+.env
+*.env
+config.ini
+
+# Python cache files
+__pycache__/
+*.py[cod]# API keys and environment variables
+.env
+*.env
+config.ini
+
+# Python cache files
+__pycache__/
+*.py[cod]
