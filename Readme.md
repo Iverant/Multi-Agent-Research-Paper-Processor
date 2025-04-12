@@ -18,13 +18,6 @@ docker run -it -p 8501:8501 iverant/vahanai-research-paper-processor:latest
 ```bash
 http://0.0.0.0:8501 or http://localhost:8501
 ```
-## Demo
-
-You can access the website via the link given above.
-
-```bash
-https://multi-agent-research-paper-processor.onrender.com
-```
 
 ## System Architecture
 
